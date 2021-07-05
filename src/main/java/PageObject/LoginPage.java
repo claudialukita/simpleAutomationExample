@@ -3,7 +3,6 @@ package PageObject;
 import Config.Elements;
 import Utility.BasePage;
 import org.openqa.selenium.By;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 

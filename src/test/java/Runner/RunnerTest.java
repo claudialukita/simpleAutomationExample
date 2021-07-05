@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         features = "src/Scenario/",
         glue = {"StepDefinitions"},
         tags = {"@loginWithParameter"},
-        plugin = {"com.cucumber.listener.ExtentCucumberFormatter:target/Hospital-report/HospitalPortalAutomation.html","json:target/hospital-portal/hospitalportal.json"},
+        plugin = {"com.cucumber.listener.ExtentCucumberFormatter:target/Instagram-report/InstagramAutomationTest.html","json:target/instagram-page/instagram.json"},
         dryRun = false,
         monochrome = true
 )
