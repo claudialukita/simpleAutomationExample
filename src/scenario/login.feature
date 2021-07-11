@@ -4,7 +4,7 @@ Background:
   Given initiate the browser
   Given instagram login page
 
-  @loginWithoutParameter
+  @loginWithoutParameter  
   Scenario: login without parameter
     When input username
     And input password
