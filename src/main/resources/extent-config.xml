@@ -8,7 +8,7 @@
         <!-- protocol for script and stylesheets -->   <!-- defaults to https -->
         <protocol>https</protocol>
         <!-- title of the document -->
-        <documentTitle>Hospital Portal Automation</documentTitle>
+        <documentTitle>Simple Automation Example</documentTitle>
         <!-- report name - displayed at top-nav -->
         <reportName>Claudia Lukita Dewi - Cucumber Report</reportName>
         <!-- global date format override -->  <!-- defaults to yyyy-MM-dd -->
